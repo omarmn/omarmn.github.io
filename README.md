@@ -6,7 +6,7 @@ Below is a list of Data Analysis projects I worked on. The code is mostly writte
 
 
 <h3>
-  <a href="https://omarmn.github.io/Espinhal.html">Python - Law Compliancy Through Remote Sensing</a>
+  <a href="https://omarmn.github.io/Espinhal.html">Law Compliancy Through Remote Sensing (Python)</a>
 </h3>
 
 Similar to the below project, this Jupyter Notebook tries to shed some light on the use of Normalised Difference Vegetation Index (NDVI) coupled with satellite imagery to check whether areas designated as a Defensible Space by Portuguese government, has been complied with by clearing the area from trees. With this analysis though, it is known exactly which date the clearing took place, and the type of cleaning (cutting down trees completely) for the parcel of land that is being investigated. As such, the results have more credence.
