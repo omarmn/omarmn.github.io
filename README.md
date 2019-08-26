@@ -2,64 +2,67 @@
 
 <h3>Introduction</h3>
 
-Below is a list of projects I worked on for my Data Science Specialisation. All code is written in R. Each section has a:
+Below is a list of Data Analysis projects I worked on. The code is mostly written in R, except where it's explicitly mentions Python. Each project has an abstract, and a linked header to the RMarkdown file or Jupyter Notebook:
 
-- Title
-- Link to RMarkdown document on RPubs
-- A short description of the project
 
-<h3>Satellite Image Analysis using Normalised Difference Vegetation Index</h3>
+<h3>
+  <a href="https://omarmn.github.io/Espinhal.html">Law Compliancy Through Remote Sensing (Python)</a>
+</h3>
 
-http://rpubs.com/omarmn/dsfdsj
+Similar to the below project, this Jupyter Notebook tries to shed some light on the use of Normalised Difference Vegetation Index (NDVI) coupled with satellite imagery to check whether areas designated as a Defensible Space by Portuguese government, has been complied with by clearing the area from trees. With this analysis though, it is known exactly which date the clearing took place, and the type of cleaning (cutting down trees completely) for the parcel of land that is being investigated. As such, the results have more credence.
+
+<h3>
+  <a href="http://rpubs.com/omarmn/dsfdsj">Satellite Image Analysis using Normalised Difference Vegetation Index</a>
+</h3>
 
 This work investigates the use of remote sensing (satellite imagery), coupled with vegetation index (NDVI) to ascertain whether areas designated by the Portguese have complied with the law of fire protection and prevention. In analysing the images and applying the index, there is evidance that compliancy (or lack of it) can be acertained.
 
-<h3>Machine Learning (NLP) - Complaints Classfier</h3>
-
-http://rpubs.com/omarmn/closerchallenge
+<h3>
+  <a href="http://rpubs.com/omarmn/closerchallenge">Machine Learning (NLP) - Complaints Classfier</a>
+</h3>
 
 This piece of work, sets out to build a a complaints classifier using Machine Learning algorithms. The training set, is a complaints database, which contains a description of the issue and the "type" of the issue. Also, in this work endeavours to propose a new complaints categorisation (or a new issue "type") by use of Machine Learning algorithm.
 
-<h3>Vegetation Index Research by use of Remote Sensing</h3>
-
-http://rpubs.com/omarmn/dslr
+<h3>
+  <a href="http://rpubs.com/omarmn/dslr">Vegetation Index Research by use of Remote Sensing</a>
+</h3>
 
 This paper endeavours to identify Defensible Spaces (DS) by use of satellite imagery and areas marked for cleaning by municipalities (using KML files) coupled with use of Vegetation Indicies. Different indicies will be employed in order to decide which index will be the most suitable in identifying a DS. The premis of this assumption, is that DS will be cleared from vegetation, therefore there will be a starck contrast between the DS and the neighbouring areas. 
 
 
-<h3>Machine Learning - Fitness Exercise Classifier</h3>
-
-http://rpubs.com/omarmn/machinelearning
+<h3>
+  <a href="http://rpubs.com/omarmn/machinelearning">Machine Learning - Fitness Exercise Classifier</a>
+</h3>
 
 This project's aim was to build a classifier to classify correct vs incorrect execution of a gym exercise based on activity monitors sensor data (i.e Fitbit, Nike FuelBand). The data set used for training, is readings from such trackers with classification from A (correct execution) to E (completely incorrect execution). Various training methods were selected, starting with an accuracy of 49% and moving all the way to an accuracy of 99.4% (with Random Forest).
 
-<h3>Multivariate Regression Model for Petrol Consumption of Cars</h3>
-
-http://rpubs.com/omarmn/regression
+<h3>
+  <a href="http://rpubs.com/omarmn/regression">Multivariate Regression Model for Petrol Consumption of Cars</a>
+</h3>
 
 This paper will endeavour to answer two questions: (1) Is an automatic or manual transmission better for a car's Miles Per Gallon (MPG); (2) What are the variables that affect MPG? Based on this,s we will build a model. For this investigation we shall use the "mtcars" data set in R.
 
-<h3>NLP - N-gram Text Analysis</h3>
-
-http://rpubs.com/omarmn/milestoneReport
+<h3>
+  <a href="http://rpubs.com/omarmn/milestoneReport">NLP - N-gram Text Analysis</a>
+</h3>
 
 This paper analyses three text files containing tweets, news articles and blog posts in order to build features for a text predictor.
 
-<h3>Hypothesis Testing - Effects of Vitamin C on Tooth Growth</h3>
-
-http://rpubs.com/omarmn/statinference
+<h3>
+  <a href="http://rpubs.com/omarmn/statinference">Hypothesis Testing - Effects of Vitamin C on Tooth Growth</a>
+</h3>
 
 This paper will endeavour to perform basic inferential data analysis on the Tooth Growth data set. More precisely, it will assess the effects of vitamin C on tooth growth in guinea pigs, and will try and conclude if there's a strong relationship or not.
 
-<h3>Exploratory Data Analysis - Effects of Weather Events on Public Health and Economy</h3>
+<h3>
+  <a href="http://rpubs.com/omarmn/RepReAssign2">Exploratory Data Analysis - Effects of Weather Events on Public Health and Economy</a>
+</h3>
 
-http://rpubs.com/omarmn/RepReAssign2
+This analysis will investigate the effects of weather events on public health and economic costs. The data being used is sourced from NOAA:<a href="https://www.noaa.gov/">https://www.noaa.gov/</a>  spanning the year 1950 to 2011.
 
-This analysis will investigate the effects of weather events on public health and economic costs. The data being used is sourced from NOAA:https://www.noaa.gov/  spanning the year 1950 to 2011.
-
-<h3>Exploratory Data Analysis of Activity Monitor (e.g Fitbit)</h3>
-
-http://rpubs.com/omarmn/activityexpl
+<h3>
+  <a href="http://rpubs.com/omarmn/activityexpl">Exploratory Data Analysis of Activity Monitor (e.g Fitbit)</a>
+</h3>
 
 This analysis uses data from an activity monitor and it aims to answer the following questions:
 - What is the mean number of steps taken per day?
@@ -67,9 +70,9 @@ This analysis uses data from an activity monitor and it aims to answer the follo
 - Are there differences in activity patterns between weekdays and weekends?
 - It also attempts to impute missing data
 
-<h3>Exploratory Data Analysis of Household Energy Consumption</h3>
-
-http://rpubs.com/omarmn/energyconsump
+<h3>
+  <a href="http://rpubs.com/omarmn/energyconsump">Exploratory Data Analysis of Household Energy Consumption</a>
+</h3>
 
 This analysis visualises energy consumption in households across two days: 1/2/2007 to 2/2/2007.
 
