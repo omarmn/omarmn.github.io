@@ -68,7 +68,7 @@ This analysis uses data from an activity monitor and it aims to answer the follo
 - It also attempts to impute missing data
 
 <h3>
-  <a href="http://rpubs.com/omarmn/energyconsump"Exploratory Data Analysis of Household Energy Consumption</a>
+  <a href="http://rpubs.com/omarmn/energyconsump">Exploratory Data Analysis of Household Energy Consumption</a>
 </h3>
 
 This analysis visualises energy consumption in households across two days: 1/2/2007 to 2/2/2007.
