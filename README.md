@@ -1,5 +1,3 @@
-![Profile](ProfilePic.png)
-
 <h1>List of Projects</h1>
 
 <h3>Introduction</h3>
