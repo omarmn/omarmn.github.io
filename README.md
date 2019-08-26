@@ -1,3 +1,5 @@
+<a href="https://omarmn.github.io/OmarNooreddin_07_2019_PT.pdf">My CV</a>
+
 <h1>List of Projects</h1>
 
 <h3>Introduction</h3>
