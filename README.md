@@ -7,8 +7,9 @@ Below is a list of projects I worked on for my Data Science Specialisation. All 
 - Title
 - Link to RMarkdown document on RPubs
 - A short description of the project
-<a href="http://rpubs.com/omarmn/machinelearning">
-<h3>Machine Learning - Fitness Exercise Classifier</h3></a>
+<h3>
+  <a href="http://rpubs.com/omarmn/machinelearning">Machine Learning - Fitness Exercise Classifier</a>
+ </h3>
 
 <a href="http://rpubs.com/omarmn/machinelearning">http://rpubs.com/omarmn/machinelearning</a>
 
