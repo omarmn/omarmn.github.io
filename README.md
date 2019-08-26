@@ -8,6 +8,25 @@ Below is a list of projects I worked on for my Data Science Specialisation. All 
 - Link to RMarkdown document on RPubs
 - A short description of the project
 
+<h3>Satellite Image Analysis using Normalised Difference Vegetation Index</h3>
+
+http://rpubs.com/omarmn/dsfdsj
+
+This work investigates the use of remote sensing (satellite imagery), coupled with vegetation index (NDVI) to ascertain whether areas designated by the Portguese have complied with the law of fire protection and prevention. In analysing the images and applying the index, there is evidance that compliancy (or lack of it) can be acertained.
+
+<h3>Machine Learning (NLP) - Complaints Classfier</h3>
+
+http://rpubs.com/omarmn/closerchallenge
+
+This piece of work, sets out to build a a complaints classifier using Machine Learning algorithms. The training set, is a complaints database, which contains a description of the issue and the "type" of the issue. Also, in this work endeavours to propose a new complaints categorisation (or a new issue "type") by use of Machine Learning algorithm.
+
+<h3>Vegetation Index Research by use of Remote Sensing</h3>
+
+http://rpubs.com/omarmn/dslr
+
+This paper endeavours to identify Defensible Spaces (DS) by use of satellite imagery and areas marked for cleaning by municipalities (using KML files) coupled with use of Vegetation Indicies. Different indicies will be employed in order to decide which index will be the most suitable in identifying a DS. The premis of this assumption, is that DS will be cleared from vegetation, therefore there will be a starck contrast between the DS and the neighbouring areas. 
+
+
 <h3>Machine Learning - Fitness Exercise Classifier</h3>
 
 http://rpubs.com/omarmn/machinelearning
