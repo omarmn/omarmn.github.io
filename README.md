@@ -10,7 +10,7 @@ Below is a list of projects I worked on for my Data Science Specialisation. All 
 
 <h3>Machine Learning - Fitness Exercise Classifier</h3>
 
-http://rpubs.com/omarmn/machinelearning
+<a href="http://rpubs.com/omarmn/machinelearning">http://rpubs.com/omarmn/machinelearning</a>
 
 This project's aim was to build a classifier to classify correct vs incorrect execution of a gym exercise based on activity monitors sensor data (i.e Fitbit, Nike FuelBand). The data set used for training, is readings from such trackers with classification from A (correct execution) to E (completely incorrect execution). Various training methods were selected, starting with an accuracy of 49% and moving all the way to an accuracy of 99.4% (with Random Forest).
 
