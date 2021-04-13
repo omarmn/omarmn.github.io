@@ -14,7 +14,7 @@ A Sentinel 2 image acquirer and NDVI builder. Given a set of dates and an Area o
 - Connect to Sentinel 2
 - Acquire images for the AOI
 - Download those images
-- Create a mosiac (if needed)
+- Create a mosaic (if needed)
 - Create an NDVI for the AOI (and export png's)
 
 The class also:
@@ -22,13 +22,13 @@ The class also:
 - Converts file format from JP2 to tiff
 
 <h3>
-  <a href="https://omarmn.github.io/Espinhal.html">GEDI Image Exploration (Python)</a>
+  <a href="https://github.com/omarmn/omarmn.github.io/blob/master/GEDI%20Overview.ipynb">GEDI Image Exploration (Python)</a>
 </h3>
 
 This Jupyter notebooks explores how to read and plot GEDI (Global Ecosystem Dynamics Investigation) images, which is a LiDAR instrument attached to the International Space Station.
 
 <h3>
-  <a href="https://omarmn.github.io/Espinhal.html">TLS and ALS image Exploration (Python)</a>
+  <a href="https://github.com/omarmn/omarmn.github.io/blob/master/TLS%20-%20ALS%20%20Data.ipynb">TLS and ALS image Exploration (Python)</a>
 </h3>
 
 This Jupyter notebooks looks at TLS (Terrestrial Laser Scanning) and ALS (Airborne Laser Scanner) images, which are essentially point cloud images.
