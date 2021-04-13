@@ -16,6 +16,7 @@ A Sentinel 2 image acquirer and NDVI builder. Given a set of dates and an Area o
 - Download those images
 - Create a mosiac (if needed)
 - Create an NDVI for the AOI (and export png's)
+
 The class also:
 - Converts CRS
 - Converts file format from JP2 to tiff
