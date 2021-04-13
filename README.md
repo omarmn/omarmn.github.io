@@ -21,6 +21,17 @@ The class also:
 - Converts CRS
 - Converts file format from JP2 to tiff
 
+<h3>
+  <a href="https://omarmn.github.io/Espinhal.html">GEDI Image Exploration (Python)</a>
+</h3>
+
+This Jupyter notebooks explores how to read and plot GEDI (Global Ecosystem Dynamics Investigation) images, which is a LiDAR instrument attached to the International Space Station.
+
+<h3>
+  <a href="https://omarmn.github.io/Espinhal.html">TLS and ALS image Exploration (Python)</a>
+</h3>
+
+This Jupyter notebooks looks at TLS (Terrestrial Laser Scanning) and ALS (Airborne Laser Scanner) images, which are essentially point cloud images.
 
 <h3>
   <a href="https://omarmn.github.io/Espinhal.html">Law Compliancy Through Remote Sensing (Python)</a>
