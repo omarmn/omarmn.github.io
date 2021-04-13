@@ -1,4 +1,4 @@
-<a href="https://omarmn.github.io/OmarNooreddin_07_2019_PT.pdf">My CV</a>
+<a href="https://omarmn.github.io/OmarNooreddin_04_2021_Detailed.pdf">My CV</a>
 
 <h1>List of Projects</h1>
 
