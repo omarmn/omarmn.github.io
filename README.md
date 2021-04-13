@@ -6,6 +6,32 @@
 
 Below is a list of Data Analysis projects I worked on. The code is mostly written in R, except where it's explicitly mentions Python. Each project has an abstract, and a linked header to the RMarkdown file or Jupyter Notebook:
 
+<h3>
+  <a href="https://github.com/omarmn/omarmn.github.io/blob/master/Sen%202%20Image%20Acquirer%20(Version3-class).ipynb">Sentinel 2 Image Acquirer/NDVI Builder (Python)</a>
+</h3>
+
+A Sentinel 2 image acquirer and NDVI builder. Given a set of dates and an Area of Interest (AOI), it will:
+- Connect to Sentinel 2
+- Acquire images for the AOI
+- Download those images
+- Create a mosiac (if needed)
+- Create an NDVI for the AOI (and export png's)
+
+The class also:
+- Converts CRS
+- Converts file format from JP2 to tiff
+
+<h3>
+  <a href="https://omarmn.github.io/Espinhal.html">GEDI Image Exploration (Python)</a>
+</h3>
+
+This Jupyter notebooks explores how to read and plot GEDI (Global Ecosystem Dynamics Investigation) images, which is a LiDAR instrument attached to the International Space Station.
+
+<h3>
+  <a href="https://omarmn.github.io/Espinhal.html">TLS and ALS image Exploration (Python)</a>
+</h3>
+
+This Jupyter notebooks looks at TLS (Terrestrial Laser Scanning) and ALS (Airborne Laser Scanner) images, which are essentially point cloud images.
 
 <h3>
   <a href="https://omarmn.github.io/Espinhal.html">Law Compliancy Through Remote Sensing (Python)</a>
